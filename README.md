@@ -1,6 +1,6 @@
-Here's a complete README for your mini banking simulation project:
 
 🏦 Mini Banking Simulation (C++)
+
 A console-based banking system built in C++ that simulates real-world banking operations including user registration, login, transactions, and an admin panel. This project was developed to practice core Object-Oriented Programming (OOP) concepts.
 
 📋 Features
@@ -97,7 +97,7 @@ Managing dynamic memory with new and delete
 
 
 👨‍💻 Author
-[Your Name]
+M.Muzammil
 BS Software Engenering | Semester 2
 
 
